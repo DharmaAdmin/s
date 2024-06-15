@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "layout.html",
+    "href": "layout.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site",
+    "crumbs": [
+      "Ecosystems",
+      "About"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "qd",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "crumbs": [
+      "Account",
+      "qd"
+    ]
+  },
+  {
+    "objectID": "basics-knitr.html",
+    "href": "basics-knitr.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site",
+    "crumbs": [
+      "Account",
+      "About"
+    ]
+  },
+  {
+    "objectID": "layout copy.html",
+    "href": "layout copy.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]
